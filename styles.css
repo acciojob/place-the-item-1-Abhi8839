@@ -1,2 +1,60 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	width:100%;
+	justify-content:space-between;
+	text-color:white;
+	alignment:center;
+	flex:wrap;
+	padding:0px;
+	margin:0px;
+}
+.item1{
+	font:20px
+	box-sizing:content-box;
+	width:50px;
+	height:50px;
+	color:black;
+	background:red;
+}
+.item2{
+	font:20px
+	box-sizing:content-box;
+	width:50px;
+	height:50px;
+	color:black;
+	background:lightblue;
+}
+.item3{
+	font:20px
+	box-sizing:content-box;
+	width:50px;
+	height:50px;
+	color:black;
+	background:lightcyan;
+}
+.item4{
+	font:20px
+	box-sizing:content-box;
+	width:50px;
+	height:50px;
+	color:black;
+	background:green;
+}
+.item5{
+	font:20px
+	box-sizing:content-box;
+	width:50px;
+	height:50px;
+	color:black;
+	background:yellow;
+}
+.item6{
+	font:20px
+	box-sizing:content-box;
+	width:50px;
+	height:50px;
+	color:black;
+	background:pink;
+}
